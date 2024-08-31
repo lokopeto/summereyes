@@ -4,3 +4,6 @@ language = "pt"
 multilingual = false
 src = "src"
 title = "Olhos de Verão"
+
+[output.html]
+additional-css = ["custom.css"]

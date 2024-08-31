@@ -1,0 +1,51 @@
+main > * {
+    font-size: 2em;
+}
+
+main > blockquote {
+    text-shadow: 0px 0px 30px var(--icons);
+
+    background: var(--theme-popup-border);
+    border: 10px transparent solid;
+    border-radius: 20px;
+
+    transition-duration: 500ms;
+    transition-delay: 500ms;
+
+
+    box-shadow: 0px 0px 100px black inset;
+    border: 10px black solid;
+
+    transition-duration: 100ms;
+    transition-delay: 0ms;
+    margin-top: -20px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+
+main > p {
+
+    text-shadow: 0px 0px 10px var(--icons);
+
+    background: var(--theme-popup-border);
+
+    padding: 10px;
+    border: 10px transparent solid;
+    border-radius: 20px;
+
+
+    box-shadow: 0px 0px 30px black;
+
+    transition-duration: 500ms;
+    transition-delay: 0ms;
+}
+
+main strong {
+    color: var(--bg);
+}
+
+main em {
+    opacity: 0.5;
+}
+
+
