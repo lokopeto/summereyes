@@ -1,32 +1,27 @@
 main > * {
     font-size: 2em;
+    font-family: "DM Serif Display", serif;
 }
 
 main > blockquote {
-    text-shadow: 0px 0px 30px var(--icons);
-
-    background: var(--theme-popup-border);
-    border: 10px transparent solid;
-    border-radius: 20px;
+    background: linear-gradient(var(--theme-popup-border) 20%,rgba(31, 31, 31, 0.534));
+    border-radius: 50px 0px;
 
     transition-duration: 500ms;
     transition-delay: 500ms;
 
+    box-shadow: 0px 0px 100px black inset, 0px 0px 30px black;
+    border-style: double solid solid solid;
+    border-width: 10px 20px 10px 5px;
+    border-color: var(--theme-popup-bg);
 
-    box-shadow: 0px 0px 100px black inset;
-    border: 10px black solid;
-
-    transition-duration: 100ms;
-    transition-delay: 0ms;
     margin-top: -20px;
     margin-bottom: 0px;
-    padding-bottom: 20px;
+    padding-bottom: 0px;
+    padding-top: 0px;
 }
 
 main > p {
-
-    text-shadow: 0px 0px 10px var(--icons);
-
     background: var(--theme-popup-border);
 
     padding: 10px;
@@ -34,7 +29,7 @@ main > p {
     border-radius: 20px;
 
 
-    box-shadow: 0px 0px 30px black;
+    box-shadow: 0px 20px 30px black;
 
     transition-duration: 500ms;
     transition-delay: 0ms;
@@ -42,10 +37,15 @@ main > p {
 
 main strong {
     color: var(--bg);
+    text-shadow: 0px 2px 2px black, 0px 0px 8px black;
 }
 
 main em {
     opacity: 0.5;
+}
+
+main > p, main > blockquote {
+    text-shadow: 0px -1px 8px var(--bg),0px -1px 2px white,0px 2px 2px var(--fg), 0px 0px 8px var(--fg);
 }
 
 

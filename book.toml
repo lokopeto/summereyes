@@ -6,4 +6,5 @@ src = "src"
 title = "Olhos de Verão"
 
 [output.html]
-additional-css = ["custom.css"]
+additional-css = ["custom.css", "texteffects.css"]
+additional-js = ["custom.js"]

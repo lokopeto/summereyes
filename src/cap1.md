@@ -17,7 +17,7 @@ Ela olha para o céu,  ***(será que devia ir com este homem? porque ele quer me
   
 Ela corre em direção ao homem, e lhe da um abraço, com suas únicas forças sobre a sua crise de choro.  
   
-E lá foram eles para o abrigo, uma casa pequena mas nem tão pequena assim, antiga mas nem tão mal reforma assim, = que lugar aconchegante, quentinho também =, ela pensa, e logo se depara com a sua esposa, talvez umas das mulheres mais lindas que passaram pelos seus olhos.  
+E lá foram eles para o abrigo, uma casa pequena mas nem tão pequena assim, antiga mas nem tão mal reforma assim, ***(que lugar aconchegante, quentinho também)***, ela pensa, e logo se depara com a sua esposa, talvez umas das mulheres mais lindas que passaram pelos seus olhos.  
   
 > "Viu, está tudo bem, toma esse cobertor, está ficando frio lá fora.."
 
