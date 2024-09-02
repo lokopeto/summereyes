@@ -22,11 +22,14 @@ main > blockquote {
 }
 
 main > p {
-    background: var(--theme-popup-border);
+    background: linear-gradient(var(--theme-popup-border),rgba(0, 0, 0, 0.301));
 
-    padding: 10px;
-    border: 10px transparent solid;
-    border-radius: 20px;
+    padding: 19px;
+    padding-top: 7px;
+    border-width: 20px 1px 5px 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 0px 0px 20px 20px;
 
 
     box-shadow: 0px 20px 30px black;
