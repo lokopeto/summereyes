@@ -11,13 +11,13 @@ Há um homem, baixo e forte, segurando oque parece ser um veado.
   
 > "VENHA AQUI, JÁ ESTA FICANDO TARDE! TENHO COMIDA E ABRIGO, CÁ FORA HÁ MUITO PERIGO!"
 
-Ela olha para o céu,  ***(será que devia ir com este homem? porque ele quer me ajudar? e se ele for do mal? não sei, não tenho nada.. sinto falta dos meus pais..)***
+Ela olha para o céu,  ***(será que devia ir com este homem? porque ele quer me ajudar? e se ele for do mal?)***
   
 *Rápido batimento de seu coração, Formigamento, Garganta fechada. não há escolha..*
   
 Ela corre em direção ao homem, e lhe da um abraço, com suas únicas forças sobre a sua crise de choro.  
   
-E lá foram eles para o abrigo, uma casa pequena mas nem tão pequena assim, antiga mas nem tão mal reforma assim, ***(que lugar aconchegante, quentinho também)***, ela pensa, e logo se depara com a sua esposa, talvez umas das mulheres mais lindas que passaram pelos seus olhos.  
+E lá foram eles para o abrigo, uma casa pequena mas nem tão pequena assim, antiga mas nem tão mal reformada assim, ***(que lugar aconchegante, quentinho também)*** e logo se depara com a sua esposa, talvez umas das mulheres mais lindas que passaram pelos seus olhos.  
   
 > "Viu, está tudo bem, toma esse cobertor, está ficando frio lá fora.."
 
@@ -31,7 +31,7 @@ E lá foram eles para o abrigo, uma casa pequena mas nem tão pequena assim, ant
 > *diz enquanto limpa suas lagrimas*
 > "a casa é sua, tem comida na cozinha."
 
-Ela puxa seu nariz remelento e Fecha seus olhinhos retirando oque restou de lagrima. Violeta faz carinho em seu cabelo, retira a sujeira presa, passa a mão em sua testa, e da um sorriso disfarçado. *A menina está em paz e sossego.*
+Ela puxa seu nariz remelento e fecha seus olhinhos retirando oque restou de lagrima. Violeta faz carinho em seu cabelo, retira a sujeira presa, passa a mão em sua testa, e da um sorriso disfarçado. *A menina está em paz e sossego.*
   
 Andando para a cozinha de forma apreciativa, observa uma lenha com madeiras já queimadas ao lado, bancos deixados a reparos, peles grossas de animais e roupas costuradas, a cozinha é minuscula, mas bem conservada, vê carne quente e feita ao ponto, Oliver está a assar a carne ***(que barulho é esse? acho que tem alguém na porta)***
   
@@ -51,7 +51,7 @@ Oliver bufa e para o seus a fazeres para atender a porta. Ela pega a carne com a
 
 > "Necessita de.. algum recurso?"
 
-> "Não, obrigado mas, preciso lhe avisar de algo, um alerta pra ser mais certeiro.. há rumores que um ditador reiná e que quebra-rá a lei dos terrenos sossegados, você terá qu-"
+> "Não, obrigado mas, preciso lhe avisar de algo, um alerta pra ser mais certeiro.. há rumores que um ditador reina-rá e irá quebrar a lei dos terrenos sossegados, você terá qu-"
 
 > "EU NUNCA SAIREI DAQUI!" *bate na mesa já quebrada, se parte ao meio, um silencio atravessa a casa como vapor* "..não deixarei que nada aconteça com essa casa, você sabe o quão importante essa construção é, não podemos deixar isso acontecer, principalmente agora.. eles podem vir com dentes e armas, mas tenho unha de tigre.. "
 
@@ -59,7 +59,7 @@ Oliver bufa e para o seus a fazeres para atender a porta. Ela pega a carne com a
 
 > "Não enquanto eu estiver vivo.."  
   
-> "Pois morrerá tentando.. hahahAHHAHha, as vezes você me enlouquece.. depois de tantos anos, irá se sacrificar para uma lutar perdida, pobre homem.."
+> "Pois morrerá tentando.. hahahAHHAHha, as vezes você me enlouquece.. depois de tantos anos, irá se sacrificar para uma luta perdida, pobre homem.."
   
 > "...me de um tempo para pensar, preciso esfriar a cabeça"
 > **O visitante se levanta, e se caminha em direção a porta**
