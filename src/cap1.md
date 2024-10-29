@@ -23,11 +23,11 @@ E lá foram eles para o abrigo, uma casa pequena mas nem tão pequena assim, ant
 
 > ".."
 
-> "Meu nome é Violeta, esse é o meu marido Oliver.. e o seu?"
+> "Meu nome é Violeta, esse é o meu marido Oliver.. e o seu nome?"
 
 > ".."
 
-> "Deve está assustada coitada" 
+> "Você não lembra o seu nome?.. deve está assustada coitada" 
 > *diz enquanto limpa suas lagrimas*
 > "a casa é sua, tem comida na cozinha."
 
@@ -37,62 +37,64 @@ Andando para a cozinha de forma apreciativa, observa uma lenha com madeiras já 
   
 > "JÁ vai!"  
   
-Oliver bufa e para o seus a fazeres para atender a porta. Ela pega a carne com as mãos e tenta morder, mas percebe que suas mãos estão sujas, e procura um jeito de se limpar
+Oliver bufa e para o seus a fazeres para atender a porta. A menina pega a carne com as mãos e tenta morder, mas percebe que suas mãos estão sujas, e procura um jeito de se limpar
 
 > "Olá Oliver! nem preciso explicar oque aconteceu, é de se lamentar"  
 
-> "Entra."
+> "Entra.."
 
 > "Com toda certeza"
 
-> "Diga."
+O homem e Oliver se sentam em uma mesa na sala.
 
-> "Invadiram o Reino dos Profetas ,era um povo abençoado.. muitas famílias se foram... as que sobreviveram não duraram muito. e se duraram.. se tornaram escravos, foi uma cena.. catastrófica.. i-isso nunca sairá da minha memoria"
+> "Me diga, oque você viu?"
 
-> "Necessita de.. algum recurso?"
+> "Invadiram o Reino dos Profetas.. muitas famílias se foram... as que sobreviveram não duraram muito. e se duraram.. se tornaram escravos, foi uma cena.. catastrófica.. i-isso nunca sairá da minha memoria"
 
-> "Não, obrigado mas, preciso lhe avisar de algo, um alerta pra ser mais certeiro.. há rumores que um ditador reina-rá e irá quebrar a lei dos terrenos sossegados, você terá qu-"
+> "Você se feriu? achou algum sobrevivente?"
 
-> "EU NUNCA SAIREI DAQUI!" *bate na mesa já quebrada, se parte ao meio, um silencio atravessa a casa como vapor* "..não deixarei que nada aconteça com essa casa, você sabe o quão importante essa construção é, não podemos deixar isso acontecer, principalmente agora.. eles podem vir com dentes e armas, mas tenho unha de tigre.. "
+> "É um mar de corpos mortos, não tem nenhuma alma viva.. Mas eu vim aqui porque eu preciso lhe avisar de algo, um alerta pra ser mais certeiro.. há rumores que um ditador reina-rá e irá quebrar a lei dos terrenos sossegados, você terá qu-"
 
-> "Maas ..VoCÊ EsTÁ LOooUCO? PIROU DE VEZ É?.. não entente que destruirão as fontes, não tem mais futuro Oliver.. acabou.. Verão não pode ser ressuscitada..."
+> "EU NUNCA SAIREI DAQUI!" *bate na mesa já quebrada, se parte ao meio, um silencio atravessa a casa como vapor* ".. não deixarei que nada aconteça com essa casa, você sabe o quão importante essa construção é, não podemos deixar isso acontecer, depois de tudo isso que passamos.."
+
+> "Maas ..VoCÊ EsTÁ LOooUCO? PIROU DE VEZ É?.. não entende que destruirão as fontes, não tem mais futuro Oliver.. acabou.. Verão não pode ser ressuscitada... perdemos.."
 
 > "Não enquanto eu estiver vivo.."  
   
-> "Pois morrerá tentando.. hahahAHHAHha, as vezes você me enlouquece.. depois de tantos anos, irá se sacrificar para uma luta perdida, pobre homem.."
+> "Pois morrerá tentando.. hahahAHHAHha, as vezes você me enlouquece.. há anos que a teimosia se enraizou em você, pobre homem.."
   
 > "...me de um tempo para pensar, preciso esfriar a cabeça"
 > **O visitante se levanta, e se caminha em direção a porta**
   
-> "ainda bem que não sou um contratante seu, e sim um amigo.. de qualquer maneira, desejo sorte na sua caçada, e valeu pelos presentes.. outono.."
+> "sorte sua que somos amigos e não um cliente.. de qualquer maneira, desejo sorte na sua caminhada, caçador.. valeu pelos presentes. outono.."
 
-A porta se fecha, Ela estava paralisada a conversa inteira, e começou a mastigar a carne ao ouvir a porta se fechando, Violeta vai até a sala para conversar com Oliver, e a Menininha fica no canto da porta da cozinha para escutar a conversa  
+A menina estava paralisada a conversa inteira, e começou a mastigar a carne ao ouvir a porta se fechando, Violeta vai até a sala para conversar com Oliver, e a Menininha fica no canto da porta da cozinha para escutar a conversa  
   
-> "Oliver, eu sei que isso é complicado mas.. mas agora nois temos uma garotinha para cuidar, não podemos nos arriscar assim, vamos sair daqui e viver como uma família normal"  
+> "Oliver, eu sei que isso é complicado mas.. mas agora temos uma garotinha para cuidar, não podemos nos arriscar assim, vamos sair daqui e viver como uma família normal"  
 
 > "Hm.."  
 > **A menina cada vez mais se entorta para escutar a conversa**
   
-> "Só viveremos felizes com o Verão, a falta que se faz é grande" - diz Oliver
+> "Só viveremos felizes com o Verão, a falta que se faz é enorme, a comida não tem o mesmo sabor" - diz Oliver
   
 > **(Eles estão falando de mamãe??)**
 > **A menina cai de tanto escorar, Oliver e Violeta escutam**
 
 > "Se machucou?" - diz Violeta
-> **Ela balança a cabeça, como um gesto de não, Violeta ve a carne mordida, e da um sorriso reconfortante**
+> **Ela balança a cabeça, como um gesto de não, Violeta vê a carne mordida, e da um sorriso reconfortante**
 
 > "Hihi, ta com dificuldade de comer?"  
 > **Diz enquanto levanta ela. Levantada, da uns tapas suaves para tirar a sujeira**
 
-> **A menina balança sua cabeça, de uma forma tímida, como um gesto de sim. Violeta retira a carne de sua mão, e com sua própria força, corta ele em 3 pedaços**
+> **A menina balança sua cabeça, de uma forma tímida, como um gesto de sim. Violeta retira a carne de sua mão, e com sua própria força, corta em 3 pedaços**
 
-> "Vá comendo desse jeito, a carne inteira é bem dura"
+> "Aqui, Vá mastigando desse jeito, a carne inteira é bem dura"
 > **Ela tentar comer, e consegue de forma bem mais suave**
   
 > "Viu?.. venha para a mesa, papai está te esperando!"
 > **(PAPAI? ele é o papai?)**
 
-> **A menina anda feliz e um pouco apressada para a sala. Oliver está sentado na mesa, cortando as carnes, os pratos não são dos melhores, como se há seculos foram criados, e nunca mais trocados porem.. o cheiro da carne é encantador.**
+> **A menina anda feliz e um pouco apressada para a sala. Oliver está sentado na mesa, cortando as carnes, os pratos não são dos melhores, como se existissem há seculos, e nunca mais trocados, porem.. o cheiro da carne é.. encantador.**
 
 > **Ela se dirige a um banco na mesa, **
 
